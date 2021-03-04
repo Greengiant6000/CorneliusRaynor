@@ -14,3 +14,5 @@ These three pages will form the basic website:
 In sequential, mroe advanced versions of the site, additional pages (or subpages) will begin to exist which include (but are not limited to): a gratitude journal, a miracles journal, a stoic calender, projects (links to web projects - download links for desktop projects), my story, blog posts, a picture gallery, music (downloadable)...
 
 This website will have only one contributor and will be my pet project until the time in which I see it fit to discontinue the creation of content for it.
+
+This is my first repository.
