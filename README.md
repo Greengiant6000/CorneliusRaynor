@@ -16,3 +16,5 @@ In sequential, mroe advanced versions of the site, additional pages (or subpages
 This website will have only one contributor and will be my pet project until the time in which I see it fit to discontinue the creation of content for it.
 
 This is my first repository.
+
+=)
