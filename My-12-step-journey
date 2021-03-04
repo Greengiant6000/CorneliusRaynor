@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>meditatoes</title>
+<!-- STYLING -->
+		<style type="text/css">
+			.title {
+				margin-left: 32px;
+				clear: both;
+				text-decoration: underline;
+				background-color: white;
+				border: 4px solid purple;
+				padding-left: 8px;
+				padding-bottom: 8px;
+				padding-top: 8px;
+			}
+			body {
+				font-family: monospace;
+				font-size: 16px;
+				background-color: rgb(255, 255, 180);
+			}
+			.navigation {
+				position: fixed;
+				float: center;
+				background-color: rgb(255, 255, 255);
+				border: 8px double rgb(255, 255, 0);
+				padding-left: 32px;
+				padding-bottom: 16px;
+				border-width: 20%;
+				width: 20%;
+				z-index: 2;
+				}
+			#navhdr {
+				margin-left: 24px;
+				text-decoration: underline;
+			}
+			.header {
+				text-align: center;
+				line-height: 2px;
+				text-decoration: underline;
+				padding-top: 24px;
+			}
+			#btmimg {
+				width: 100%;
+			}
+			p {
+				margin-left: 10%;
+				width: 80%;
+				text-indent: 64px;
+			}
+			#hmpgp {
+				border: 4px solid rgb(255, 255, 0);
+				background-color: rgb(255, 255, 255);
+				position: relative;
+				z-index: 1;
+				padding: 8px 8px 8px 8px;
+			}
+			#stepp {
+				border: 4px solid purple;
+				padding-left: 16px;
+				background-color: white;
+			}
+		</style>
+	</head>
+<!-- BODY -->
+    <body>
+		<h1 class="title" id="mainheader" title="Website title">MEDITATOES</h1>
+        <h2 class="title" title="Page title">My 12 step journey</h2>
+<!-- PAGE NAVIGATION -->		
+		<ol>
+				<h3 id="navhdr" title="Navigation bar">Step listing</h3>
+			<li><a href="#step1" title="Step 1">One small step for man</a></li>
+			<li><a href="#step2" title="Step 2">Fool me twice shame on me</a></li>
+		</ol>
+<!-- CONTENT -->
+	<!-- FIRST STEP CONTENT -->
+		<h3 id="step1" class="header" title="Step 1">Step 1</h3>
+	<div id="stepp" title="The day I wrote this step"><h6>March 3rd, 2021</h6>
+		<p title="Step 1">I admit that my life has become unmanageable. I admit that I have driven my life into the ground. I have done a lot, and made a lot of mistakes, been the victim and the predator. Drugs have been a problem, in one way or another, for the last 5 years of my life. My entire adult life I have been trying to have something different and placed my use of drugs ahead of the welfare of everyone else and myself.<strong> I was incapable of facing life on its own terms. </strong></p>
+			<p title="Step 1">I have been suffering from a disease that can be arrested, and can always be arrested, however I feel at any given point. Sometimes I get over excited, and sometimes I get hopeless, and sometimes I don’t know left from right: sometimes I don’t know how to feel about myself and my position.<strong> I know that I have been a horrible person. </strong>I have hurt the people that loved me most and have tried to escape from blessing upon blessing.</p>
+			<p title="Step 1">I am powerless over my addiction. I have always been powerless over my addiction, and it has taken me through loop after scam after verisimilitude until I was in seemingly endless pain. I was mortified when I reached the end. I had hurt myself for the last time.<strong> I am ready to be clean.</strong> That’s the best thing I can do for myself and the other people that want the best for me.</p>
+			<p title="Step 1">Through years of damage, I have become self-centred, self-pitying, and self-righteous to an absurd, immense, and terrifying degree. I have been guilty of thievery and violence that extends beyond anything that I had ever imagined I was even capable of. I have hurt my relationship with myself the most though.<strong> I can never forget that I have hurt myself the most. </strong>When I am ready, I will have to make amends to those I can make amends to.</p>
+			<p title="Step 1">My higher power has been with me all this time though. It has blessed me with learning, and love, in every circumstance, position, and situation that I have been in and experienced. I have been blessed with things that at the time I considered – easily – that were things that I would rather have not experienced.<strong> I brought it all upon myself though.</strong> It was not easy to live with myself after any of my mistakes and I have learned over and over again that I have been fake…</p>
+			<p title="Step 1">Being fake isn’t easy. It’s often harder than being real. That can be the worst part of your emotion, but “it works if you work it,” and I have often run up to trip over: I have shot myself in the foot more than once. It’s scary when I experience this emotion!<strong> I have pretended more than I have been real! </strong>I have been wrong more than I have been right, for better or for worse.</p>
+			<p title="Step 1">I know you have to pick a side  though. The sooner you pick a side the better too. On one side, you have living clean and staying strong, and on the other you have death, institutions, & jails. I know where I want to be.<strong> I want to stay as far away as I can from drugs! </strong>I know that alcohol is just as bad, and I know that I need to look after myself every time I find an opportunity to do so.</p>
+			<p title="Step 1">The best way to stay clean is to work the steps. It comes down to the 12 steps. You can get scared by your feelings too. It’s scary to feel when you’ve hurt so many people. The consequences could be anywhere. Anytime can the devil rear its head and you become engulfed by its maw. To be torn apart by the unknown is to lose but lose honestly.<strong> If you’re high, then you’re not living honestly! </strong>The three most important principles of the NA way of life, and successfully working the 12 steps and living by the 12 traditions, are honesty, open-mindedness, and willingness.</p>
+			<p title="Step 1">I want to be of service to myself and my loved ones. I want to be of service to the world. The only way I can do this is to stay clean and work hard, through the steps and traditions, and with the love of my higher power.<strong> My higher power loves me, loves my life, and loves my love.</strong> I have no choice but to be the best person I can be, for better or for worse.
+		</p></div>
+<!-- THEMATIC CONTENT BREAK -->
+		<hr>
+	<!-- SECOND STEP CONTENT -->
+		<h3 id="step2" class="header">Step 2</h3>
+<!-- IMAGE -->	
+			<img src="piggy.jpg" alt="The looney tunes pig saying 'That's all folks!'" id="btmimg">
+   </body>
+</html>
