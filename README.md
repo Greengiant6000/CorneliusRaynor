@@ -8,6 +8,6 @@ At its core, the website will include a page on:
 2. CV and profile. (Profile)
 3. My 12 step journey. (Miracles)
 
-In more advanced versions of the site, additional pages (or subpages) will begin to exist which include (but are not limited to): a gratitude journal, a miracles journal, a stoic calender, projects (links to web projects - download links for desktop projects), my story, blog posts...
+In sequential versions of the site, additional pages (or subpages) will begin to exist which include (but are not limited to): a gratitude journal, a miracles journal, a stoic calender, projects (links to web projects - download links for desktop projects), my story, blog posts...
 
 This website will have one contributor and will be my pet project until the time in which I see it fit to discontinue the creation of content for it.
